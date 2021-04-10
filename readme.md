@@ -9,7 +9,7 @@ This project is intended to represent the output of Charles Petzold's "Code" boo
 * [QUCS](https://github.com/Qucs/qucs) - untested
 * [ngSpice](https://github.com/imr/ngspice) - untested
 * [KiCad](https://gitlab.com/kicad/code/kicad) - untested
-* [Digital](https://github.com/hneemann/Digital) - untested - a Logisim sucessor
+* [Digital](https://github.com/hneemann/Digital) - tested - a Logisim sucessor - This one works :)
 * Other?
 
 TODO: Breakout into new pages and review
